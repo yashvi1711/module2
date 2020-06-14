@@ -50,14 +50,13 @@
 }
 
 
-@media screen and (max-width: 1250px){
+@media screen and (min-width: 768px) and (max-width: 991px){
 	.container ul li{
 		width: 40%;
 		margin-left: 50px;
 	}
 }
-
- @media screen and (max-width: 750px){
+ @media screen and (max-width: 767px){
  	.container{
  		width: 100%
  		padding: 0px;
